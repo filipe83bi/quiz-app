@@ -1,0 +1,10 @@
+:root {
+  --primary: #adadad;
+  --secondery: #057ab1;
+  --background: rgb(176, 248, 248);
+  --font: #ffe9d0;
+  --grey: #363636;
+  --red: rgba(209, 0, 0, 0.651);
+  --green: rgba(37, 95, 37, 0.753);
+  --green-tint: rgb(64, 221, 64);
+}
